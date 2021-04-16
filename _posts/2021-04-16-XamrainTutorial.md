@@ -86,7 +86,7 @@ public partial class MainPage : ContentPage
 
 ## 레이아웃
 
-![Xamarin%20%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%B8%20675d17edf2074eccbe070835853cc7e2/Untitled.png](Xamarin%20%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%B8%20675d17edf2074eccbe070835853cc7e2/Untitled.png)
+![2021-04-16/Untitled.png](2021-04-16/Untitled.png)
 
 - `StackLayout`
     - 방향 속성에 따라 위쪽에서 아래쪽 또는 왼쪽에서 오른쪽 스택에 컨트롤을 배치합니다.
